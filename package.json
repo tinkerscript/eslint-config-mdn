@@ -1,0 +1,11 @@
+{
+  "name": "eslint-config-mdn",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tinkerscript/eslint-config-mdn.git",
+  "author": "Roman Balandin <tinkerscript@yandex.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "7.5.0"
+  }
+}
