@@ -1,6 +1,8 @@
-.idea
-node_modules
+.gitignore
+.eslintrc
+yarn.lock
 *.log
+.idea
 desktop.ini
 .vs
 .DS_Store
