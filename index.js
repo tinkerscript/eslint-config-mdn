@@ -4,6 +4,6 @@ module.exports = {
         // possible
 
         semi: [2, 'always'],
-
+        'accessor-pairs': [2, 'always']
     }
 };
