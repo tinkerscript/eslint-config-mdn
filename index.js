@@ -1,6 +1,9 @@
 module.exports = {
     extends: 'eslint:recommended',
     rules: {
-        semi: [2, 'always']
+        // possible
+
+        semi: [2, 'always'],
+
     }
 };
